@@ -10,8 +10,8 @@
   "dependencies": {
     "fs": "^0.0.1-security",
     "mongodb": "^3.5.9",
-    "mongoose": "^5.9.22",
-    "puppeteer": "^5.0.0"
+    "mongoose": "^5.9.24",
+    "puppeteer": "^5.1.0"
   },
   "devDependencies": {
     "@babel/plugin-transform-modules-commonjs": "^7.10.4",
