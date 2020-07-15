@@ -1,4 +1,4 @@
-# StatusDog
+# HTTP Status Dogs
 
 ## Set up project
 
