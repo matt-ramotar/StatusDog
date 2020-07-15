@@ -17,7 +17,7 @@ embed/o9J_kpSbrw0=/?" frameborder="0" scrolling="no" allowfullscreen></iframe>
 <!-- blank line -->
 
 - [x] Map class properties and connections
-- [x] Define classes
+- [ ] Define classes
 - [x] Define schema
 - [x] Create models
 
