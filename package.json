@@ -1,0 +1,23 @@
+{
+  "name": "statusdogs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "matt ramotar",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "mongodb": "^3.5.9",
+    "mongoose": "^5.9.22",
+    "puppeteer": "^5.0.0"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.10.4",
+    "@babel/preset-env": "^7.10.4",
+    "babel-jest": "^26.1.0",
+    "jest": "^26.1.0",
+    "jest-puppeteer": "^4.4.0"
+  }
+}
