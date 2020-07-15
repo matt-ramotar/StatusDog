@@ -14,8 +14,6 @@
 - [x] Define schema
 - [x] Create models
 
-<https://miro.com/app/board/o9J_kpSbrw0=/>
-
 ## Scrape 'https://httpstatusdogs.com/' using Puppeteer
 
 ## Model data and insert collections into MongoDB
